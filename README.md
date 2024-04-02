@@ -76,20 +76,115 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 ## Output:
        Data.head():
+
+
+
+       
  ![Screenshot 2024-04-03 040604](https://github.com/RITHISHlearn/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145446645/84b79b95-c067-4aef-bef5-41f3abb99b84)
+
+
+
+
+
+
+
+
+
+
+
+ 
        Data.info():
+
+
+       
 ![Screenshot 2024-04-03 040618](https://github.com/RITHISHlearn/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145446645/e2be044f-482f-4916-bef1-9f70ee1377ca)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
        isnull() and sum():
+
+
+
+
+
+
+       
 ![Screenshot 2024-04-03 040634](https://github.com/RITHISHlearn/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145446645/0539862d-d022-4e31-be23-a80b708b8631)
+
+
+
+
+
+
+
+
+
+
+
+
+
        Data Value Counts():
+       
 ![Screenshot 2024-04-03 040645](https://github.com/RITHISHlearn/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145446645/e82657a9-c4e2-4f7d-8489-c8c4ca1e68c0)
+
+
+
+
+
+
+
+
+
        Data.head() for salary:
+       
 ![Screenshot 2024-04-03 040711](https://github.com/RITHISHlearn/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145446645/5b786847-502e-4060-bb3f-c9213bfde6f3)
+
+
+
+
+
+
+
+
+
+
        x.head:
+       
 ![Screenshot 2024-04-03 040722](https://github.com/RITHISHlearn/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145446645/768976ab-3d6f-490c-8256-fa4008f6cb88)
+
+
+
+
+
+
+
+
+
+
+
        Accuracy Value:
+       
 ![Screenshot 2024-04-03 040730](https://github.com/RITHISHlearn/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145446645/786301bd-f399-40c4-9e99-ab81fb021317)
+
+
+
+
+
+
        Data Prediction:
+       
 ![Screenshot 2024-04-03 040748](https://github.com/RITHISHlearn/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145446645/4d39b9b7-e541-4208-abd4-86df8620f094)
 
 
